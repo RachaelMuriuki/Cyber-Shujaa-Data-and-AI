@@ -11,8 +11,8 @@ Data visualization
 SQL & database querying
 
 ## Tools & Technologies
--Python  
 -SQL
+-Python
 -Pandas & NumPy
 -Scikit-learn
 -TensorFlow/Keras
